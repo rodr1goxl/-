@@ -248,7 +248,7 @@ body {
     padding-bottom: 0; /* Garantindo que não há espaço extra */
 }
 .p {
-    max-width: 90%; /* Define uma largura máxima para não espalhar muito */
+    max-width: 85%; /* Define uma largura máxima para não espalhar muito */
     text-align: justify; /* Justifica o texto para alinhar os dois lados */
     margin: 10px auto; /* Centraliza o texto e adiciona espaçamento */
     line-height: 1.6; /* Aumenta o espaçamento entre as linhas para melhor leitura */
